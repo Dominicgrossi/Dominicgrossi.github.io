@@ -11,12 +11,16 @@ Thank you for taking the time to review this brief display of my skills and qual
 -
 All relevant files can be found in my public GitHub repo [here](https://github.com/Dominicgrossi). The repository contains two macro-enabled workbooks. The AoS roller simulates rounds of dice rolling for the popular table top game, Warhammer: Age of Sigmar. The second workbook is a project I created specifically for this position. 
 
-<title>About the Portfolio</title>
+-
+Excel Macros
+-
+
 The macro serves as a workbook for a simulated call-center environment. The macro within the workbook generates simulated call center data. This randomly generated data was used to create four distinct tables within an Oracle database I set up. 
 
-The 
+-
+Tableau Portfolio
+-
 
-<title>Tableau Portfolio</title>
 - [Overview](pages/overview.html)
 - [Making an independent website](pages/independent_site.html)
 - [Making a personal site](pages/user_site.html)
