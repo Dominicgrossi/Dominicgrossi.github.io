@@ -24,7 +24,7 @@ Simulated call center data was uploaded to a local Oracle XE database for SQL ma
 
 
 **Tableau**
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Finstagram-logo-png&psig=AOvVaw033oL6iyXPvls64cmXLu_l&ust=1585179282594000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODYm5KjtOgCFQAAAAAdAAAAABAD)
 Format: ![Alt Text](url)
 
 The three tableau tables show the relationships between:
