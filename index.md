@@ -1,8 +1,8 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Dominic J.N. Grossi
+tagline: Professional Digital Portfolio
+description: My professional portfolio for consideration for the Allstate Workflow Core Tech Consultant Position
 ---
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
