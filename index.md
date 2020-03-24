@@ -18,16 +18,16 @@ Excel Macros
 The macro serves as a workbook for a simulated call-center environment. The macro within the workbook generates simulated call center data. This randomly generated data was used to create four distinct tables within an Oracle database I set up. 
 
 -
-Tableau Portfolio
+Oracle Database and SQL
+-
+Simulated call center data was uploaded to a local Oracle XE database for SQL manipulation via Oracle SQL Developer interface. From here, a query was ran to 
+
+
+-
+Tableau 
 -
 
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
+
 
 If anything here is confusing (or _wrong_!), or if I've missed
 important details, please
