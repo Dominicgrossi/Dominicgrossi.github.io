@@ -6,7 +6,6 @@ description: My professional portfolio for consideration for the Allstate Workfl
 ---
 Thank you for taking the time to review this brief display of my skills and qualifications for the position. I am excited to show you what I have to offer!
 
-<img src="https://i.imgur.com/Ob7KTMe.png" width="200" height="150" />
 
 **About the Portfolio**
 
@@ -22,6 +21,8 @@ The macro serves as a workbook for a simulated call-center environment. The macr
 
 Simulated call center data was uploaded to a local Oracle XE database for SQL manipulation via Oracle SQL Developer interface. From here, a query was ran to create a table, that joined all four originally uploaded tables from Excel. The fifth table called CustomerInteractions, was used for the Tableau sample
 
+<img src="https://i.imgur.com/Ob7KTMe.png" width="200" height="150" />
+
 
 **Tableau**
 
@@ -33,6 +34,8 @@ The three tableau tables show the relationships between:
 2.[Average Call Length to customers contacted](https://public.tableau.com/profile/dominic.grossi#!/vizhome/AllstatePortfolio2/AvgCLCustomersContacted?publish=yes)
 
 3.[Total Call Hours across 5 days](https://public.tableau.com/profile/dominic.grossi#!/vizhome/AllstatePortfolio3/Totalcallhours5day?publish=yes)
+
+<img src="https://i.imgur.com/dXSV79S.png" width="300" height="400" />
 
 ---
 
