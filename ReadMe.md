@@ -8,7 +8,7 @@
 
 This is a minimal tutorial to get started.
 
-View the thing [here](https://kbroman.org/simple_site).
+Original layout by Karl Broman [here](https://kbroman.org/simple_site).
 
 ---
 
