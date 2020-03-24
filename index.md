@@ -21,7 +21,7 @@ The macro serves as a workbook for a simulated call-center environment. The macr
 
 Simulated call center data was uploaded to a local Oracle XE database for SQL manipulation via Oracle SQL Developer interface. From here, a query was ran to create a table, that joined all four originally uploaded tables from Excel. The fifth table called CustomerInteractions, was used for the Tableau sample
 
-<img src="https://i.imgur.com/Ob7KTMe.png" width="400" height="400" />
+<img src="https://i.imgur.com/Ob7KTMe.png" width="600" height="400" />
 
 
 **Tableau**
