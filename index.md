@@ -1,3 +1,5 @@
+![Alt Text](https://images.sharefaith.com/images/3/1507570813956_36/img_mouseover3.jpg)
+
 ---
 layout: page
 title: Dominic J.N. Grossi
@@ -25,7 +27,6 @@ Simulated call center data was uploaded to a local Oracle XE database for SQL ma
 
 **Tableau**
 
-![Alt Text](https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png)
 
 The three tableau tables show the relationships between:
 
