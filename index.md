@@ -6,7 +6,7 @@ description: My professional portfolio for consideration for the Allstate Workfl
 ---
 Thank you for taking the time to review this brief display of my skills and qualifications for the position. I am excited to show you what I have to offer!
 
-<img src="https://imgur.com/Ob7KTMe/>
+<img src="https://imgur.com/Ob7KTMe />
 
 **About the Portfolio**
 
