@@ -8,30 +8,22 @@ Thank you for taking the time to review this brief display of my skills and qual
 
 
 
--
- About the Portfolio
--
+** About the Portfolio**
 
 All relevant files can be found in my public GitHub repo [here](https://github.com/Dominicgrossi). The repository contains two macro-enabled workbooks. The AoS roller simulates rounds of dice rolling for the popular table top game, Warhammer: Age of Sigmar. The second workbook is a project I created specifically for this position
 
 
 
--
-Excel Macros
--
+**Excel Macros**
 
 The macro serves as a workbook for a simulated call-center environment. The macro within the workbook generates simulated call center data. The sheets in the workbook were created for the SQL demonstration. They were intended to have separate foreign keys so that they could be joined within OracleSQL Developer
 
--
-Oracle Database and SQL
--
+**Oracle Database and SQL**
 
 Simulated call center data was uploaded to a local Oracle XE database for SQL manipulation via Oracle SQL Developer interface. From here, a query was ran to create a table, that joined all four originally uploaded tables from Excel. The fifth table called CustomerInteractions, was used for the Tableau sample
 
 
--
-Tableau 
--
+**Tableau**
 
 
 
