@@ -1,7 +1,9 @@
 ## Dominic J.N. Grossi: Professional Portfolio Site
 
 [Github Pages Repo](https://github.com/Dominicgrossi/Dominicgrossi.github.io) The repository for my Pages site
+
 [My Github Profile](https://github.com/Dominicgrossi)
+
 [My LinkedIn](https://www.linkedin.com/in/dominic-grossi-08b055135/)
 
 
