@@ -1,7 +1,10 @@
-## Simple site: Easy websites with GitHub pages
+## Dominic J.N. Grossi: Professional Portfolio Site
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using Markdown and git.
+[Github Pages Repo](https://github.com/Dominicgrossi/Dominicgrossi.github.io) The repository for my Pages site
+[My Github Profile](https://github.com/Dominicgrossi)
+[My LinkedIn](https://www.linkedin.com/in/dominic-grossi-08b055135/)
+
+
 
 This is a minimal tutorial to get started.
 
