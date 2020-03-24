@@ -21,7 +21,7 @@ The macro serves as a workbook for a simulated call-center environment. The macr
 
 Simulated call center data was uploaded to a local Oracle XE database for SQL manipulation via Oracle SQL Developer interface. From here, a query was ran to create a table, that joined all four originally uploaded tables from Excel. The fifth table called CustomerInteractions, was used for the Tableau sample
 
-<img src="https://i.imgur.com/Ob7KTMe.png" width="200" height="150" />
+<img src="https://i.imgur.com/Ob7KTMe.png" width="400" height="350" />
 
 
 **Tableau**
@@ -35,7 +35,7 @@ The three tableau tables show the relationships between:
 
 3.[Total Call Hours across 5 days](https://public.tableau.com/profile/dominic.grossi#!/vizhome/AllstatePortfolio3/Totalcallhours5day?publish=yes)
 
-<img src="https://i.imgur.com/dXSV79S.png" width="300" height="400" />
+<img src="https://i.imgur.com/dXSV79S.png" width="500" height="300" />
 
 ---
 
