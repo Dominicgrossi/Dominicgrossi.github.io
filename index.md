@@ -6,9 +6,9 @@ description: My professional portfolio for consideration for the Allstate Workfl
 ---
 Thank you for taking the time to review this brief display of my skills and qualifications for the position. I am excited to show you what I have to offer!
 
----
-title: About the Portfolio
----
+-
+ About the Portfolio
+-
 All relevant files can be found in my public GitHub repo [here](https://github.com/Dominicgrossi). The repository contains two macro-enabled workbooks. The AoS roller simulates rounds of dice rolling for the popular table top game, Warhammer: Age of Sigmar. The second workbook is a project I created specifically for this position. 
 
 <title>About the Portfolio</title>
