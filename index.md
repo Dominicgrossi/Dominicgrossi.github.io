@@ -32,7 +32,9 @@ Tableau
 The three tableau tables show the relationships between:
 
 -[Employee Average daily call time](https://public.tableau.com/profile/dominic.grossi#!/vizhome/AllstatePortfolio/EmployeeAvg_CallTime?publish=yes)
+
 -[Average Call Length to customers contacted](https://public.tableau.com/profile/dominic.grossi#!/vizhome/AllstatePortfolio2/AvgCLCustomersContacted?publish=yes)
+
 -[Total Call Hours across 5 days](https://public.tableau.com/profile/dominic.grossi#!/vizhome/AllstatePortfolio3/Totalcallhours5day?publish=yes)
 
 ---
