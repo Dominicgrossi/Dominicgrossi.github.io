@@ -1,5 +1,3 @@
-![Alt Text](https://images.sharefaith.com/images/3/1507570813956_36/img_mouseover3.jpg)
-
 ---
 layout: page
 title: Dominic J.N. Grossi
@@ -8,7 +6,7 @@ description: My professional portfolio for consideration for the Allstate Workfl
 ---
 Thank you for taking the time to review this brief display of my skills and qualifications for the position. I am excited to show you what I have to offer!
 
-
+![Alt Text](https://images.sharefaith.com/images/3/1507570813956_36/img_mouseover3.jpg)
 
 **About the Portfolio**
 
