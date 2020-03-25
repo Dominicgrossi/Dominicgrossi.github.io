@@ -19,7 +19,7 @@ The other macro was a tool I developed to produce simulated call-center data. Th
 
 **Excel Macro**
 
-[The Macro](https://github.com/Dominicgrossi/Allstate-Interview-Portfolio/tree/master/Mock%20Call%20Center%20DB) serves as a workbook for a simulated call-center environment. The macro within the workbook generates simulated call center data. The sheets in the workbook were created for the SQL demonstration. They were intended to have separate foreign keys so that they could be joined within OracleSQL Developer
+[The Macro](https://github.com/Dominicgrossi/Allstate-Interview-Portfolio/tree/master/Mock%20Call%20Center%20DB) serves as a workbook for a simulated call-center environment. The macro within the workbook generates simulated call center data. The sheets in the workbook were created for the SQL demonstration.
 
 
 **Oracle Database and SQL**
