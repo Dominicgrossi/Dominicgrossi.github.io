@@ -4,8 +4,11 @@ title: Dominic J.N. Grossi
 tagline: Professional Digital Portfolio
 description: My professional portfolio for consideration for the Allstate Workflow Core Tech Consultant Position
 ---
+<img src="https://i.imgur.com/78LZCN4.png" width="20" height="20" /> [LinkedIn](https://www.linkedin.com/feed/)| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" />[GitHub](https://github.com/Dominicgrossi)
+
+
 Thank you for taking the time to review this brief display of my skills and qualifications for the position. I am excited to show you what I have to offer!
-[LinkedIn](https://www.linkedin.com/feed/)|[GitHub](https://github.com/Dominicgrossi)
+
 
 **About the Portfolio**
 
