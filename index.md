@@ -42,5 +42,3 @@ After doing a CTAS with Joins, I produced [three charts](https://github.com/Domi
 <img src="https://i.imgur.com/dXSV79S.png" width="500" height="500" />
 
 ---
-
-Original page layout by Karl [on github](https://github.com/kbroman/simple_site).
