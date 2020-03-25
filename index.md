@@ -12,13 +12,15 @@ Thank you for taking the time to review this brief display of my skills and qual
 
 **About the Portfolio**
 
-All relevant files can be found in my public GitHub repo [here](https://github.com/Dominicgrossi/Allstate-Interview-Portfolio). The repository contains two macro-enabled workbooks. The AoS roller simulates rounds of dice rolling for the popular table top game, Warhammer: Age of Sigmar. The second workbook is a project I created specifically for this position
+All relevant files can be found in my public [GitHub Repository](https://github.com/Dominicgrossi/Allstate-Interview-Portfolio). The repository contains two macro-enabled workbooks. Two macro-enabled Excel applications are included in my repository. One is a tool that plays out a the six-sided dice rolling component of the popular tabletop game Warhammer: Age of Sigmar. 
+The other macro was a tool I developed to produce simulated call-center data. This tool was used to generate all data used for the Oracle, SQL and Tableau samples included within my repository. 
 
 
 
-**Excel Macros**
+**Excel Macro**
 
-The macro serves as a workbook for a simulated call-center environment. The macro within the workbook generates simulated call center data. The sheets in the workbook were created for the SQL demonstration. They were intended to have separate foreign keys so that they could be joined within OracleSQL Developer
+[The Macro](https://github.com/Dominicgrossi/Allstate-Interview-Portfolio/tree/master/Mock%20Call%20Center%20DB) serves as a workbook for a simulated call-center environment. The macro within the workbook generates simulated call center data. The sheets in the workbook were created for the SQL demonstration. They were intended to have separate foreign keys so that they could be joined within OracleSQL Developer
+
 
 **Oracle Database and SQL**
 
