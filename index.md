@@ -26,8 +26,7 @@ Simulated call center data was uploaded to a local Oracle XE database for SQL ma
 
 **Tableau**
 
-
-The three tableau tables show the relationships between:
+Using the joined table that was created in OracleSQL Developer, I produced three charts that visualize data based on call length and call volume. These files were uploaded to Tableau Public, and are also available in my repository. The three tableau tables show the relationships between:
 
 1.[Employee Average daily call time](https://public.tableau.com/profile/dominic.grossi#!/vizhome/AllstatePortfolio/EmployeeAvg_CallTime?publish=yes)
 
