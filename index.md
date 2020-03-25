@@ -24,14 +24,14 @@ The other macro was a tool I developed to produce simulated call-center data. Th
 
 **Oracle Database and SQL**
 
-Simulated call center data was uploaded to a local Oracle XE database for SQL manipulation via Oracle SQL Developer interface. From here, a query was ran to create a table, that joined all four originally uploaded tables from Excel. The fifth table called CustomerInteractions, was used for the Tableau sample
+Using the OracleSQL Developer interface, I created five tables to run queries on, repository [Here](https://github.com/Dominicgrossi/Allstate-Interview-Portfolio/tree/master/Oracle%20SQL%20Files). The simulated call center data was uploaded to a local Oracle XE database for SQL manipulation via Oracle SQL Developer interface. From here, a query was ran to create a table, that joined all four originally uploaded tables from Excel. The fifth table called CustomerInteractions, was used for the Tableau sample
 
 <img src="https://i.imgur.com/Ob7KTMe.png" width="600" height="400" />
 
 
 **Tableau**
 
-Using the joined table that was created in OracleSQL Developer, I produced three charts that visualize data based on call length and call volume. These files were uploaded to Tableau Public, and are also available in my repository. The three tableau tables show the relationships between:
+After doing a CTAS with Joins, I produced [three charts](https://github.com/Dominicgrossi/Allstate-Interview-Portfolio/tree/master/Tableau%20Public%20samples) that visualize data based on call length and call volume. These files were uploaded to Tableau Public, and are also available in my repository. The three tableau tables show the relationships between:
 
 1.[Employee Average daily call time](https://public.tableau.com/profile/dominic.grossi#!/vizhome/AllstatePortfolio/EmployeeAvg_CallTime?publish=yes)
 
