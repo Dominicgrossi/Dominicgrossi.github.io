@@ -7,7 +7,7 @@ description: My professional portfolio for consideration for the Allstate Workfl
 <img src="https://a4-images.myspacecdn.com/images04/2/ba4f989ed8f54de8b1d5185ecb842ad8/full.jpg" width="20" height="20" /> [LinkedIn](https://www.linkedin.com/feed/)| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" />[GitHub](https://github.com/Dominicgrossi)
 
 
-Thank you for taking the time to review this brief display of my skills and qualifications for the position. I am excited to show you what I have to offer!
+Thank you for taking the time to review this brief demonstration of my technical skillset with SQL queries, Oracle DB, Microsoft Excel and Tableau. I am excited to show you what I have to offer!
 
 
 **About the Portfolio**
