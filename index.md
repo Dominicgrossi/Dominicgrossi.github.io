@@ -12,8 +12,8 @@ Thank you for taking the time to review this brief demonstration of my technical
 
 **About the Portfolio**
 
-All relevant files can be found in my public [GitHub Repository](https://github.com/Dominicgrossi/Allstate-Interview-Portfolio). The repository contains two macro-enabled workbooks. Two macro-enabled Excel applications are included in my repository. One is a tool that plays out a the six-sided dice rolling component of the popular tabletop game Warhammer: Age of Sigmar. 
-The other macro was a tool I developed to produce simulated call-center data. This tool was used to generate all data used for the Oracle, SQL and Tableau samples included within my repository. 
+All relevant files can be found in my public [GitHub Repository](https://github.com/Dominicgrossi/Allstate-Interview-Portfolio). The repository contains two macro-enabled workbooks. Two macro-enabled Excel applications are included in my repository.
+One macro was a tool I developed to produce simulated call-center data. This tool was used to generate all data used for the Oracle, SQL and Tableau samples included within my repository. 
 
 
 
